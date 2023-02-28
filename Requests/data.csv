@@ -1,0 +1,2 @@
+APIVrs	DataVrs	Expression	NStudiesAvail	NStudiesFound	MinRank	MaxRank	NStudiesReturned	FieldList
+1.01.05	2022:07:21 23:17:50.009	heart attack	422349	9117	1	20	20	['NCTId', 'Condition', 'BriefTitle']
